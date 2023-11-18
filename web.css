@@ -1,0 +1,61 @@
+#dia{
+    background-color: rgb(222, 244, 222);
+}
+
+.obe-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.million{
+    font-size: 20px;
+    
+}
+
+.man{
+    display: flex;
+    align-items: center;
+}
+
+.man-1{
+    display: flex;
+    align-items: center;
+}
+.man-2{
+    display: flex;
+    align-items: center;
+}
+
+.column{
+    padding-top: 32px;
+    
+}
+
+.margin{
+    border-left: 3px dashed rgb(165, 165, 213);
+   
+}
+
+.display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Grains{
+    display: flex; 
+    align-items: center;
+}
+.fruits{
+    display: flex; 
+    align-items: center;
+}
+.meat{
+    display: flex; 
+    align-items: center;
+}
+.milk{
+    display: flex; 
+    align-items: center;
+}
